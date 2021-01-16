@@ -42,7 +42,7 @@ object dependencies {
     val http4s = "0.21.14"
     val janino = "3.1.2"
     val kindProjector212 = "0.10.3"
-    val kindProjector213 = "0.11.0"
+    val kindProjector213 = "0.11.3"
     val logback = "1.2.3"
     val macroParadise = "2.1.1"
     val postgres = "42.2.18"
