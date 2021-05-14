@@ -49,7 +49,7 @@ object dependencies {
     val scalaCheck = "1.15.2"
     val scalajs = "1.0.0"
     val scalaJavaTime = "2.0.0"
-    val scalaTest = "3.2.3"
+    val scalaTest = "3.2.9"
     val scalaTestPlusScalacheck = "3.2.2.0"
     val simulacrum = "1.0.0"
     val tsec = "0.2.1-ct-2"
