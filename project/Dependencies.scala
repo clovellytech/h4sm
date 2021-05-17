@@ -17,7 +17,7 @@ object dependencies {
   val inTestOnly : String = "test->test"
 
   val scala212 = "2.12.12"
-  val scala213 = "2.13.3"
+  val scala213 = "2.13.6"
 
   lazy val JsTest = config("js").extend(Test)
   lazy val JvmTest = config("jvm").extend(Test)
