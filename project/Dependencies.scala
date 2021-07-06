@@ -45,7 +45,7 @@ object dependencies {
     val kindProjector213 = "0.11.0"
     val logback = "1.2.3"
     val macroParadise = "2.1.1"
-    val postgres = "42.2.18"
+    val postgres = "42.2.23"
     val scalaCheck = "1.15.2"
     val scalajs = "1.0.0"
     val scalaJavaTime = "2.0.0"
